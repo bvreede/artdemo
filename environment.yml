@@ -1,0 +1,10 @@
+name: artdemo
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python>=3.8
+  - pillow
+  - jupyter
+  - sphinx
+  - nbsphinx
