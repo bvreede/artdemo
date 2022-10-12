@@ -14,10 +14,8 @@ Then activate it with:
 conda activate artdemo
 ```
 
-## Example code
-
-Download the repository:
+Download the repository to get started with this example:
 ```console
 git clone https://github.com/bvreede/artdemo.git
-cd asciiart
+cd artdemo
 ```
