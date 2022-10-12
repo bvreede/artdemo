@@ -2,7 +2,7 @@
 
 This is a demonstration package used to teach best documentation practices.
 
-The environment file contains therefore several dependencies that are not in fact required for the actual functionality of this package.
+The environment file in this repo contains therefore several dependencies that are not in fact required for the actual functionality of the code.
 
 Create the environment:
 ```console
@@ -14,11 +14,10 @@ Then activate it with:
 conda activate artdemo
 ```
 
-## Installation
+## Example code
 
-Install the package:
+Download the repository:
 ```console
 git clone https://github.com/bvreede/artdemo.git
 cd asciiart
-python3 -m pip install .
 ```
